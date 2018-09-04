@@ -1,0 +1,4 @@
+Graphic Motor : 2 folders -> "Widgets" and "Windows"
+
+
+Physic Motor : Needs a class "Parameter" and another class containing all the parameters
